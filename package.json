@@ -1,0 +1,26 @@
+{
+  "name": "react-playground",
+  "version": "0.1.0",
+  "description": "Small playground for playing and learning react for myself.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianm93/react-playground.git"
+  },
+  "author": "Florian Macherey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/florianm93/react-playground/issues"
+  },
+  "homepage": "https://github.com/florianm93/react-playground#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
